@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/peluffojuancruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peluffojuancruz" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=peluffojuancruz@gmail.com&tf=cm" target="blank"><img align="center" alt="peluffojuancruz" height="30" width="40" src="https://user-images.githubusercontent.com/28950541/147156605-d9db2140-cf49-4d0a-b526-e238528aa819.png"></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=peluffojuancruz@gmail.com&tf=cm" target="blank"><img align="center" alt="peluffojuancruz" height="45" width="45" src="https://user-images.githubusercontent.com/28950541/147156605-d9db2140-cf49-4d0a-b526-e238528aa819.png"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
